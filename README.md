@@ -1,5 +1,4 @@
 # hi from jayani!
-
 # PyTorch Ultimate 2024 - From Basics to Cutting-Edge
 PyTorch Ultimate 2024 - From Basics to Cutting-Edge, Published by Packt Publishing
 
